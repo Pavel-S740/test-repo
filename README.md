@@ -11,8 +11,7 @@ git checkout -b feature_branch
 git checkout develop
 git merge feature_branch
 
-
-
+новый текст добавлен
 
 
 
